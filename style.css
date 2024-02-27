@@ -154,7 +154,7 @@ body{
       display: none;
       margin-left: 100px;
       align-items: center;
-      background-image: url(/image/background.png);
+      background-image: url(image/background.png);
       background-repeat: no-repeat;
       background-size: 350px;
       background-position: 350px 25px;
@@ -222,12 +222,12 @@ body{
 
   @font-face {
     font-family: Mulish-Regular;
-    src: url(/font/Mulish-Regular.ttf);
+    src: url(font/Mulish-Regular.ttf);
   }
 
   @font-face {
     font-family: Mulish-Bold;
-    src: url(/font/Mulish-Bold.ttf);
+    src: url(font/Mulish-Bold.ttf);
   }
 
   .slider-img{
@@ -301,7 +301,7 @@ body{
 
   .coder-item{
     list-style-type: none;
-    background-image: url(/image/free-icon-font-file-code-8778039.svg);
+    background-image: url(image/free-icon-font-file-code-8778039.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -309,7 +309,7 @@ body{
 
   .designer-item{
     list-style-type: none;
-    background-image: url(/image/customize-computer.svg);
+    background-image: url(image/customize-computer.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -317,7 +317,7 @@ body{
 
   .photo-item{
     list-style-type: none;
-    background-image: url(/image/free-icon-font-wheelchair-5069226.svg);
+    background-image: url(image/free-icon-font-wheelchair-5069226.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -325,7 +325,7 @@ body{
 
   .photo{
     list-style-type: none;
-    background-image: url(/image/camera.svg);
+    background-image: url(image/camera.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -333,7 +333,7 @@ body{
 
   .help{
     list-style-type: none;
-    background-image: url(/image/exclamation.svg);
+    background-image: url(image/exclamation.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -341,7 +341,7 @@ body{
 
   .speak{
     list-style-type: none;
-    background-image: url(/image/microphone-alt.svg);
+    background-image: url(image/microphone-alt.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
@@ -349,7 +349,7 @@ body{
 
   .leader-item{
     list-style-type: none;
-    background-image: url(/image/user-crown.svg);
+    background-image: url(image/user-crown.svg);
     background-position: 10 0;
     background-repeat: no-repeat;
     padding-left: 1.5rem;
